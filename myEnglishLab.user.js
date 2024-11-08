@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         MyEnglishLab Answer Button
-// @version      2.0
+// @version      2.5
 // @description  Add an answer button
 // @author       Taicosy
 // @match        https://myenglishlab.pearson-intl.com/activities/*
